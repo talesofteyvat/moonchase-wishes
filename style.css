@@ -97,6 +97,7 @@
     background-color: #332d42;
     font-family: 'Courgette';
     color: #fff;
+    overflow: auto;
     transform: rotateY(180deg);
   }
   
@@ -108,7 +109,7 @@
   .flip-card-back p {
     text-align: center;
     margin: 1rem;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     line-height: 1.5rem;
   }
   .flip-card-back p span {
